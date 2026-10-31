@@ -1,1 +1,1 @@
-# mulk-dogrulama
+# verification
